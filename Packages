@@ -5,7 +5,7 @@ Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
+Size: 854com.zanait.realcc
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
@@ -27,15 +27,15 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: RealCC
-Version: 0.0.4-1
+Version: 1.0.1
 Section: Tweaks
 Maintainer: Zana IT <fb.zana@gmail.com>
 Depends: firmware (<11.3.1)
 Architecture: iphoneos-arm
-Filename: ./debs/com.zanait.realcc_0.0.4-1-arm.deb
+Filename: ./debs/com.zanait.realcc_1.0.1-arm.deb
 Size: 2,780
-MD5sum: 84c0eec3204b249928cec4016afdf6af
+MD5sum: 089f4dedb54c52f1e6f1ef2d7e25100d
 Description: بەکاردێ بۆ داخستنی وایفا تا ئەوکاتەی خۆت ئەیکەیتەوە. Firmware should be lower than 11.3.1
 Name: RealCC
 Author: ZanaIT <fb.zana@gmail.com>
-Depiction: https://zanait.github.io/Reposi3/depictions//depictions/?p=com.zanait.realcc
+Depiction: https://zanait.github.io/Reposi3/depictions//depictions/?p=ZanaIT
