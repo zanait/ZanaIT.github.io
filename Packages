@@ -33,9 +33,9 @@ Maintainer: Zana IT <fb.zana@gmail.com>
 Depends: firmware (<11.3.1)
 Architecture: iphoneos-arm
 Filename: ./debs/com.zanait.realcc_1.0.1-arm.deb
-Size: 2,780
+Size: 3,712 bytes
 MD5sum: 089f4dedb54c52f1e6f1ef2d7e25100d
 Description: بەکاردێ بۆ داخستنی وایفا تا ئەوکاتەی خۆت ئەیکەیتەوە. Firmware should be lower than 11.3.1
 Name: RealCC
 Author: ZanaIT <fb.zana@gmail.com>
-Depiction: https://zanait.github.io/Reposi3/depictions//depictions/?p=ZanaIT
+Depiction: https://zanait.github.io/Reposi3/depictions//depictions/?p=com.zanait.realcc
