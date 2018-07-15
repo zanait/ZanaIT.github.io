@@ -29,12 +29,13 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.yourepo.kiiimo.betternethack
 Version: 3.3.2
 Architecture: iphoneos-arm
-Maintainer: Zana IT  (fb.zana@gmail.com)
+Maintainer: ZanaIT  (fb.zana@gmail.com)
 Depends: <bundleids>
 Filename: ./debs/com.yourepo.kiiimo.betternethack_3.3.2-1.deb
-Size: <deb in bytes>
+Size: 4196
 MD5sum: f9d97224bac3953aa673b4f9751ceae7
 Section: tweaks
 Description: for hack betternet vpn
-Author: Yourname <email (put in <>)>
+Author: ZanaIT <reposithree@gmail.com>
 Name: VPN BETTERNET
+Depiction: https://zanait.github.io/Reposi3/depictions/?p=com.yourepo.kiiimo.betternethack
