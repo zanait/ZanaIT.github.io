@@ -26,16 +26,15 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
-Package: com.yourepo.kiiimo.4gtolte
-Version: 1.1
-Section: Tweaks
-Maintainer: ZanaIT <fb.zana@gmail.com>
-Depends: firmware (>10.0), mobilesubstrate
+Package: com.yourepo.kiiimo.betternethack
+Version: 3.3.2
 Architecture: iphoneos-arm
-Filename: ./debs/com.yourepo.kiiimo.4gtolte_1.1.deb
-Size: 47,396 bytes
-MD5sum fce6995bc899c1d0f30af34520a4ebce
-Description: change LTE logo to 4G. Firmware should be greater than 10.0
-Name: LTE TO 4G
-Author: ZanaIT <fb.zana@gmail.com>
-Depiction: https://zanait.github.io/Reposi3/depictions/?p=com.com.yourepo.kiiimo.4gtolte
+Maintainer: Zana IT  (fb.zana@gmail.com)
+Depends: <bundleids>
+Filename: ./debs/com.yourepo.kiiimo.betternethack_3.3.2-1.deb
+Size: <deb in bytes>
+MD5sum: f9d97224bac3953aa673b4f9751ceae7
+Section: tweaks
+Description: for hack betternet vpn
+Author: Yourname <email (put in <>)>
+Name: VPN BETTERNET
