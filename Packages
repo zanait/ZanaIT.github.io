@@ -29,11 +29,10 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Package: com.yourepo.kiiimo.betternethack
 Version: 3.3.2
 Section: tweaks
-Maintainer: ZanaIT (fb.zana@gmail.com)
+Maintainer: ZanaIT <reposithree@gmail.com>
 Depends: firmware (<9.0)
 Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.yourepo.kiiimo.betternethack_3.3.2-1.deb
 Size: 4196
