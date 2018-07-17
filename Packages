@@ -1,27 +1,33 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>9.0), mobilesubstrate
+Package: com.Nrepo.Nicon
+Version: 1.0.4
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 4196
-MD5sum: f9d97224bac3953aa673b4f9751ceae7
-Description: This is a sample new package. Firmware should be greater than 9.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Essential: yes
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//com.nrepo.nicon_1.0.4_iphoneos-arm.deb
+Size: 12062
+MD5sum: 16c272cd218bec8ec146fe92b277b257
+SHA1: 60286cc76cf57f313976e1d2c35201608588d681
+SHA256: 4ec4c749dce9e0adea4c0ba824d4c967179b457cccdef338a1c3027d017cc560
+Section: aTweaks
+Priority: required
+Description: Adds setup files, icons and sources to repo
+Author:  NsBm0d 
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.Nicon
+Name: Nicon
+Sponsor: http://nrepo.github.io/
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.Nrepo.NsB
+Version: 1.0.2
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer:  NsBm0d  <NsBm0d@LIVE.com>
+Filename: ./debs//com.nrepo.nsb_1.0.2_iphoneos-arm.deb
+Size: 633808
+MD5sum: 54b72a652c052596bcc8a7bc317833c8
+SHA1: ea46194854ea045235b349f5f175160c7f2361ef
+SHA256: b4a175c5d09b79b1c45ad6f542fa582066f2c2eef31f16fda34d10bae9a84200
+Section: aThemes
+Description: Crystal Apple Theme
+Author:  NsBm0d 
+Depiction: https://Nrepo.github.io/depictions/?p=com.Nrepo.NsB
+Name: NsB
+
