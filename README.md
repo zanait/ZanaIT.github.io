@@ -14,14 +14,14 @@ Extract the contents into a subfolder on your website. If you're using [Github P
 #### 3. Personalize
 Edit `Release` file. Modify the items pointed by `<--`
 
-    Origin:  NsBm0d   <--
-    Label:  NsBm0d    <--
+    Origin:  ZanaIT   <--
+    Label:  ZanaIT    <--
     Suite: stable
     Version: 1.0
     Codename: ios
     Architectures: iphoneos-arm
     Components: main
-    Description:  NsBm0d  - a cydia repo template  <--
+    Description:  ZanaIT  - a cydia repo template  <--
 
 #### 4. Your repo is ready.
 At this point your repo is basically ready to be added into Cydia. You can also visit your repo's homepage by going to `https://username.github.io/repo/`. It will come with 2 sample packages, Nicon Package and NsB Package. Each of the packages have a link on this page pointing to their depictions. Next guide will show you how to assign and customize your depiction pages.
