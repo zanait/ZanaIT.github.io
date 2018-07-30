@@ -26,3 +26,14 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Architecture: iphoneos-arm
+Author: ZanaIT <repo.zanait.github.io>
+Depends: mobilesubstrate
+Section: Tweaks ZanaIT
+saze: 2686
+sponsor: zanait.github.io/Reposi3/depictions/com.kurdios.fortnitebypass
+Filename: ./debs/com.kurdios.fortnitebypass_5.1.0.deb
+MD5sum: ba4950c5295d6a5016dc9e5ebd8478e7
+Name: Fortnite bypass
+Package: com.kurdios.fortnitebypass
+Version: 5.1.0
